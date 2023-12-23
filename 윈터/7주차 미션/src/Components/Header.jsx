@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom"; //다른 페이지로 이동하려면, react-router-dom에서 제공하는 Link 컴포넌트를 사용하여 다른 페이지로 이동할 수 있습니다.
-import Login from "../pages/LoginPage";
 
 export default function Header() {
 	return (
